@@ -14,8 +14,8 @@ Dus EERST !!!!! PULL!!!!!!! Daarna zelf aan het werk gaan!
 TODOS:
 ===========
 
-| Naam              | Omschrijving                                              | Persoon opgepakt  |
-| ----------------- | ---------------------------                               | ---------------   |
-| Opzetten database | inrichten en opzetten van een mysql database              |                   |
-| Database Class    | Voor verbindingen en queries aan de database              |                   |
-| Pageloader        | Laden van pagina afhankelijk van inlog(admin,gebruiker)   |                   |
+| Naam              | Omschrijving                                              | Persoon opgepakt  | Status  |
+| ----------------- | ---------------------------                               | ---------------   | ------  |
+| Opzetten database | Inrichten en opzetten van een mysql database              |                   |         |
+| Database Class    | Voor verbindingen en queries aan de database              |                   |         |
+| Pageloader        | Laden van pagina afhankelijk van inlog(admin,gebruiker)   |                   |         |
