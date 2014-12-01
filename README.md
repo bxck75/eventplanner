@@ -11,7 +11,8 @@ Daardoor krijg je "merge" problemen....
 En die veranderingen van een ander worden bij jou "commit" en "push" gewist uit de code.
 Dus EERST !!!!! PULL!!!!!!! Daarna zelf aan het werk gaan!
 
-<h1>TODOS:</h1>
+TODOS:
+===========
 
 | Name              | Description                 |
 | ----------------- | --------------------------- |
