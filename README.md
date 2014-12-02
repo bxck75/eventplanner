@@ -19,3 +19,7 @@ TODOS:
 | Opzetten database | Inrichten en opzetten van een mysql database              |                   |         |
 | Database Class    | Voor verbindingen en queries aan de database              |                   |         |
 | Pageloader        | Laden van pagina afhankelijk van inlog(admin,gebruiker)   |                   |         |
+
+hulp voor het vullen van deze read.me : 
+
+https://help.github.com/articles/github-flavored-markdown/
